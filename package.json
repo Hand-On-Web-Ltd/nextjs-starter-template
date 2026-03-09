@@ -1,0 +1,18 @@
+{
+  "name": "nextjs-starter-template",
+  "version": "1.0.0",
+  "homepage": "https://www.handonweb.com",
+  "description": "Next.js business website starter with SEO, analytics, and contact form",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "author": "Hand On Web Ltd <outreach@handonweb.com>",
+  "license": "MIT"
+}
